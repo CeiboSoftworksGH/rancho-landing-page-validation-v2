@@ -2,10 +2,10 @@ import { LinkConfig } from './types';
 
 export const LINKS: LinkConfig = {
   // Replace with actual links
-  surveyUrl: "https://docs.google.com/forms", 
-  contactEmail: "mailto:contacto@agrogestion.uy",
-  whatsappUrl: "https://wa.me/59899000000",
-  linkedinUrl: "https://linkedin.com",
+  surveyUrl: "https://forms.gle/Kn9Zud3apTjVMiFw5",
+  contactEmail: "mailto:contact@ceibosoftworks.uy",
+  whatsappUrl: "https://wa.me/59891890355",
+  linkedinUrl: "https://www.linkedin.com/company/109150186",
 };
 
 export const TEXT_CONTENT = {
